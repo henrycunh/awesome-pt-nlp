@@ -4,6 +4,8 @@
   
 📖. Uma curadoria de projetos, iniciativas e conteúdos relacionados a NLP em português  
   
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+  
 </div>
 
 ## Corpos
